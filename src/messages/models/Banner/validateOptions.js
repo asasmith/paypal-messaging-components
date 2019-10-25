@@ -33,7 +33,7 @@ export const VALID_STYLE_OPTIONS = {
         }
     },
     flex: {
-        color: [Types.STRING, ['blue', 'black', 'white', 'white-no-border', 'gray|grey']],
+        color: [Types.STRING, ['blue', 'black', 'white', 'white-no-border', 'gray|grey', 'salmon']],
         ratio: [Types.STRING, ['1x1', '1x4', '8x1', '20x1']]
     },
     legacy: {
