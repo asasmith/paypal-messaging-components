@@ -8,6 +8,7 @@ import ratio8x1 from './css/ratio--8x1.css';
 import ratio20x1 from './css/ratio--20x1.css';
 import colorBlue from './css/color--blue.css';
 import colorGray from './css/color--gray.css';
+import colorSalmon from './css/color--salmon.css';
 import colorBlueRatio1x4 from './css/color--blue&&ratio--1x4.css';
 import colorBlack from './css/color--black.css';
 import colorWhite from './css/color--white.css';
@@ -25,6 +26,7 @@ export default [
     ['color:gray', colorGray],
     ['color:black', colorBlack],
     ['color:white', colorWhite],
+    ['color:salmon', colorSalmon],
     ['color:white-no-border', colorWhiteNoBorder],
 
     ['color:blue && ratio:1x4', colorBlueRatio1x4]
